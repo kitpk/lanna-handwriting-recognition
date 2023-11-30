@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>new-Samanta5-4-2_png.rf.be70a70419f959188a3cd7d2de821a81.jpg</filename>
+	<path>new-Samanta5-4-2_png.rf.be70a70419f959188a3cd7d2de821a81.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LN014</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>942</xmin>
+			<xmax>991</xmax>
+			<ymin>788</ymin>
+			<ymax>947</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Tamnan-chiang-mai8-1-3_png.rf.4b0fdb8347727aa27b1c15d652b3a9be.jpg</filename>
+	<path>Tamnan-chiang-mai8-1-3_png.rf.4b0fdb8347727aa27b1c15d652b3a9be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LN029</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>720</xmin>
+			<xmax>761</xmax>
+			<ymin>627</ymin>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

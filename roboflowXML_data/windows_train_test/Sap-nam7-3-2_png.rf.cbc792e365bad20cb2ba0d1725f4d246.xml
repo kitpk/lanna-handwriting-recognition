@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>Sap-nam7-3-2_png.rf.cbc792e365bad20cb2ba0d1725f4d246.jpg</filename>
+	<path>Sap-nam7-3-2_png.rf.cbc792e365bad20cb2ba0d1725f4d246.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

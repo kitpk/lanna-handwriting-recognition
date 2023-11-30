@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Anita-long9-1-1_png.rf.fc1ae648707a9b72b5de5771360eadc8.jpg</filename>
+	<path>Anita-long9-1-1_png.rf.fc1ae648707a9b72b5de5771360eadc8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LN038</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>639</xmin>
+			<xmax>677</xmax>
+			<ymin>708</ymin>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+</annotation>

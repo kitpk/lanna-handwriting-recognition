@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>new-Nisai-ha-sip-cat-mat-paet6-4-2_png.rf.34f0bd1bf4acd3946c0143ae6ebd1e8f.jpg</filename>
+	<path>new-Nisai-ha-sip-cat-mat-paet6-4-2_png.rf.34f0bd1bf4acd3946c0143ae6ebd1e8f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LN003</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>483</xmin>
+			<xmax>515</xmax>
+			<ymin>765</ymin>
+			<ymax>843</ymax>
+		</bndbox>
+	</object>
+</annotation>

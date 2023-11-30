@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Sap-nam5-1-1_png.rf.44040e2d9390990333c9fa1b9ed4a5de.jpg</filename>
+	<path>Sap-nam5-1-1_png.rf.44040e2d9390990333c9fa1b9ed4a5de.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LN034</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>468</xmin>
+			<xmax>501</xmax>
+			<ymin>455</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>
